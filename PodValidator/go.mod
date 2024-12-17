@@ -1,4 +1,4 @@
-module github.com/Maersk-Global/Athena-Automations/reusable-components/PodValidatorV2
+module github.com/karthikeyans02/Kubernetes/PodValidator
 
 go 1.20
 
